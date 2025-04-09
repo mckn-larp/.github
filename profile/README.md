@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://owbnknoxville.net/wp-content/uploads/2022/07/mckn-title.png" alt="Knoxville: Marble City Logo" width="100%" />
+  <img src="https://owbnknoxville.net/wp-content/uploads/2022/07/mckn-title.png" alt="Knoxville: Marble City Logo" width="400px" />
 </p>
 
 <p align="center">
