@@ -1,6 +1,6 @@
 # Knoxville: Marble City
 
-**Welcome to Knoxville: Marble City**, the heart of the valley and the queen city of the mountains. Established in 2023 as part of the **One World By Night (OWbN)** network, our chronicle offers an immersive live-action role-playing experience set in the **World of Darkness** universe.
+**Welcome to Knoxville: Marble City**, the heart of the valley and the queen city of the mountains. Established in 2025 as part of the **One World By Night (OWbN)** network, our chronicle offers an immersive live-action role-playing experience set in the **World of Darkness** universe.
 
 ## About Our Chronicle
 
@@ -14,18 +14,18 @@ We are dedicated to creating a fun, welcoming community of gamers. Our guiding p
 
 - **Inclusivity**: Welcoming players of all backgrounds and experience levels.
 - **Engagement**: Encouraging active participation and collaboration in storytelling.
-- **Respect**: Upholding a positive environment free from negativity and drama. [oai_citation_attribution:5‡owbnknoxville.net](https://owbnknoxville.net/home/game-info/)
+- **Respect**: Upholding a positive environment free from negativity and drama. 
 
 We follow **Wheaton’s Law**: "Don't be a dick." 
 
 ## Game Details
 
-- **Setting**: Modern nights in Knoxville, Tennessee. [oai_citation_attribution:7‡owbnknoxville.net](https://owbnknoxville.net/home/game-info/)
-- **Genres in Play**: Inter-Genre, including various factions and supernatural elements. [oai_citation_attribution:8‡owbnknoxville.net](https://owbnknoxville.net/home/game-info/)
-- **Ruleset**: White Wolf’s Mind’s Eye Theatre. [oai_citation_attribution:9‡owbnknoxville.net](https://owbnknoxville.net/home/game-info/)
+- **Setting**: Modern nights in Knoxville, Tennessee. 
+- **Genres in Play**: Inter-Genre, including various factions and supernatural elements. 
+- **Ruleset**: White Wolf’s Mind’s Eye Theatre. 
 - **House Rules**: Our repository. [House Rules Repository](https://github.com/mckn-larp/house-rules)
 
-While multiple genres are in play, we do not actively support cross-genre engagement. Our focus remains on delivering immersive and cohesive narratives within each genre. [oai_citation_attribution:10‡owbnknoxville.net](https://owbnknoxville.net/home/game-info/)
+While multiple genres are in play, we do not actively support cross-genre engagement. Our focus remains on delivering immersive and cohesive narratives within each genre. 
 
 ## Getting Started
 
