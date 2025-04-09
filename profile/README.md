@@ -60,7 +60,5 @@ We look forward to weaving compelling stories together in the World of Darkness.
 
 ---
 <p align="center" style="background-color: #000; padding: 20px;">
-  <span style="display: inline-block; width: 20%; height: 2px; background-color: white; vertical-align: middle;"></span>
   <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-  <span style="display: inline-block; width: 20%; height: 2px; background-color: white; vertical-align: middle;"></span>
 </p>
