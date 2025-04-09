@@ -59,7 +59,3 @@ To join our community and participate in the chronicle:
 We look forward to weaving compelling stories together in the World of Darkness.
 
 ---
-
-<p align="center">
-  <img src="https://owbnknoxville.net/wp-content/uploads/2023/12/KMC-horizontal-text-logo-white.png" alt="Knoxville LARP Footer Logo" width="300px"/>
-</p>
