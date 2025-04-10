@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://owbnknoxville.net"><img alt="Website" src="https://img.shields.io/badge/Visit%20Our%20Website-KMC-blue?style=for-the-badge&logo=worldofdarkness" /></a>
+  <a href="https://owbnknoxville.net"><img alt="Website" src="https://img.shields.io/badge/Visit%20Our%20Website-MCKN-blue?style=for-the-badge&logo=worldofdarkness" /></a>
   <a href="https://discord.gg/N5AKyFByth"><img alt="Join Discord" src="https://img.shields.io/discord/799311464086110260?color=%237289DA&label=Discord&logo=discord&style=for-the-badge" /></a>
   <a href="https://github.com/mckn-larp/house-rules"><img alt="House Rules Repo" src="https://img.shields.io/badge/House%20Rules-Repository-blue?style=for-the-badge&logo=github" /></a>
 </p>
