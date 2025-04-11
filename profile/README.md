@@ -42,7 +42,7 @@ We follow **Wheaton’s Law**: _"Don't be a dick."_
 - **Genres in Play**: Inter-Genre, including various factions and supernatural elements.
 - **Ruleset**: White Wolf’s Mind’s Eye Theatre.
 - **House Rules**: Available at the [House Rules Repository](https://github.com/mckn-larp/house-rules)
-- **Regional History**: The World of Darkness [Regional Histry Repo](https://github.com/mckn-larp/history)
+- **Regional History**: The World of Darkness [Histroy Repo](https://github.com/mckn-larp/history)
 
 > While multiple genres are in play, we do not actively support cross-genre engagement.  
 > Our focus remains on delivering immersive and cohesive narratives within each genre.
@@ -55,7 +55,8 @@ To join our community and participate in the chronicle:
 
 1. **Visit Our Website**: [owbnknoxville.net](https://owbnknoxville.net)
 2. **Review the House Rules**: [House Rules Repo](https://github.com/mckn-larp/house-rules)
-3. **Join Our Discord**: [discord.gg/N5AKyFByth](https://discord.gg/N5AKyFByth)
+3. **Read our history**: [Histroy Repo](https://github.com/mckn-larp/history)
+4. **Join Our Discord**: [discord.gg/N5AKyFByth](https://discord.gg/N5AKyFByth)
 
 We look forward to weaving compelling stories together in the World of Darkness.
 
