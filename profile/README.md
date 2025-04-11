@@ -56,7 +56,7 @@ To join our community and participate in the chronicle:
 
 1. **Visit Our Website**: [owbnknoxville.net](https://owbnknoxville.net)
 2. **Review the House Rules**: [House Rules Repo](https://github.com/mckn-larp/house-rules)
-3. **Read our history**: [Histroy Repo](https://github.com/mckn-larp/history)
+3. **Read our history**: [History Repo](https://github.com/mckn-larp/history)
 4. **Join Our Discord**: [discord.gg/N5AKyFByth](https://discord.gg/N5AKyFByth)
 
 We look forward to weaving compelling stories together in the World of Darkness.
