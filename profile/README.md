@@ -6,7 +6,7 @@
   <a href="https://owbnknoxville.net"><img alt="Website" src="https://img.shields.io/badge/Visit%20Our%20Website-MCKN-blue?style=for-the-badge&logo=worldofdarkness" /></a>
   <a href="https://discord.gg/N5AKyFByth"><img alt="Join Discord" src="https://img.shields.io/discord/799311464086110260?color=%237289DA&label=Discord&logo=discord&style=for-the-badge" /></a>
   <a href="https://github.com/mckn-larp/house-rules"><img alt="House Rules Repo" src="https://img.shields.io/badge/House%20Rules-Repo-blue?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/mckn-larp/history"><img alt="History Repo" src="https://img.shields.io/badge/History-Repo-blue?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/mckn-larp/history/README.md"><img alt="History Repo" src="https://img.shields.io/badge/History-Repo-blue?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
@@ -55,8 +55,8 @@ We follow **Wheaton’s Law**: _"Don't be a dick."_
 To join our community and participate in the chronicle:
 
 1. **Visit Our Website**: [owbnknoxville.net](https://owbnknoxville.net)
-2. **Review the House Rules**: [House Rules Repo](https://github.com/mckn-larp/house-rules)
-3. **Read our history**: [History Repo](https://github.com/mckn-larp/history)
+2. **Review the House Rules**: [House Rules Repo](https://github.com/mckn-larp/house-rules/README.md)
+3. **Read our history**: [History Repo](https://github.com/mckn-larp/history/README.md)
 4. **Join Our Discord**: [discord.gg/N5AKyFByth](https://discord.gg/N5AKyFByth)
 
 We look forward to weaving compelling stories together in the World of Darkness.
