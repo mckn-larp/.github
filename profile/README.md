@@ -13,7 +13,7 @@
 
 # Knoxville: Marble City
 
-**Welcome to Knoxville: Marble City**, the heart of the valley and the queen city of the mountains. Established in **2025** as part of the **One World By Night (OWbN)** network, our chronicle offers an immersive live-action role-playing experience set in the **World of Darkness** universe.
+**Welcome to Knoxville: Marble City**, the heart of the valley and the queen city of the mountains. Established in **2025** as part of the **One World By Night (OWbN)** network, our satelite chronicle offers an immersive live-action role-playing experience set in the **World of Darkness** universe.
 
 ---
 
