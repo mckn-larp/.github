@@ -17,8 +17,6 @@
   </a>
 </p>
 
----
-
 # Knoxville: Marble City
 
 **Welcome to Knoxville: Marble City**, the heart of the valley and the queen city of the mountains. Established in **2025** as part of the **One World By Night (OWbN)** network, our satelite chronicle offers an immersive live-action role-playing experience set in the **World of Darkness** universe.
@@ -59,12 +57,9 @@ To join our community and participate in the chronicle:
 
 We look forward to weaving compelling stories together in the World of Darkness.
 
----
-
 **Q:** Why the Queen logo everywhere?  
 **A:** Knoxville is historically known as *Queen City of the Mountains* due to it's hub in the Appalachians.
 
----
 <p align="center" style="background-color: #000; padding: 20px;">
   <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
 </p>
