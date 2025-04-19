@@ -50,8 +50,6 @@ We follow **Wheaton’s Law**: _"Don't be a dick."_
 - **Setting**: Modern nights in Knoxville, Tennessee.
 - **Genres in Play**: Inter-Genre, including various factions and supernatural elements.
 - **Ruleset**: White Wolf’s Mind’s Eye Theatre.
-- **House Rules**: Available at the [House Rules Repository](https://github.com/mckn-larp/house-rules)
-- **Regional History**: The World of Darkness [Histroy Repo](https://github.com/mckn-larp/history)
 
 > While multiple genres are in play, we do not actively support cross-genre engagement.  
 > Our focus remains on delivering immersive and cohesive narratives within each genre.
