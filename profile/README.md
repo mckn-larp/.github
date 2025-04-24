@@ -59,7 +59,3 @@ We look forward to weaving compelling stories together in the World of Darkness.
 
 **Q:** Why the Queen logo everywhere?  
 **A:** Knoxville is historically known as *Queen City of the Mountains* due to it's hub in the Appalachians.
-
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>
