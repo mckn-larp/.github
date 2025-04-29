@@ -8,7 +8,7 @@
   <a href="https://github.com/mckn-larp"><img alt="Chronicle Repo" src="https://img.shields.io/badge/Chronicle-Repo-blue?style=for-the-badge&logo=github" /></a>
 </p>
 
-# Knoxville: Marble City
+# Marble City: Knoxville Nights
 
 **Welcome to Knoxville: Marble City**, the heart of the valley and the queen city of the mountains. Established in **2025** as part of the **One World By Night (OWbN)** network, our satelite chronicle offers an immersive live-action role-playing experience set in the **World of Darkness** universe.
 
