@@ -45,6 +45,7 @@ To join our community and participate in the chronicle:
 2. **Review the House Rules**: [House Rules Repo](https://github.com/mckn-larp/house-rules)
 3. **Read our history**: [History Repo](https://github.com/mckn-larp/history)
 4. **Join Our Discord**: [discord.gg/N5AKyFByth](https://discord.gg/N5AKyFByth)
+5. **Storyteller Information**: [Background *ST ONLY*](https://github.com/mckn-larp/background)
 
 We look forward to weaving compelling stories together in the World of Darkness.
 
