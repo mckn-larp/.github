@@ -4,13 +4,13 @@
   <a href="https://github.com/mckn-larp"><img alt="Chronicle Repo" src="https://img.shields.io/badge/Chronicle-Repo-blue?style=for-the-badge&logo=github" /></a>
 </p>
 
-# Marble City: Knoxville Nights
+# Marble City: Knoxville
 
-**Welcome to Marble City: Knoxville Night (MCKN)**, the heart of the valley and the queen city of the mountains. Established in **2025** as part of the **One World By Night (OWbN)** network, our satelite chronicle offers an immersive live-action role-playing experience set in the **World of Darkness** universe.
+**Welcome to Marble City: Knoxville (MCKN)**, the heart of the valley and the queen city of the mountains. Established in **2025** as part of the **One World By Night (OWbN)** network, our satelite chronicle offers an immersive live-action role-playing experience set in the **World of Darkness** universe.
 
 ## About Our Chronicle
 
-**Marble City: Knoxville Nights** stands as the newest jewel in the Sabbat Empire. Against the odds, it has been seized from a nascent Camarilla and the forces of the Changing Breeds – now we just have to hold it...
+**Marble City: Knoxville** stands as the newest jewel in the Sabbat Empire. Against the odds, it has been seized from a nascent Camarilla and the forces of the Changing Breeds – now we just have to hold it...
 
 Our game primarily operates online via our Discord server, with occasional live events to enrich the experience. We host full sessions every **third Saturday of the month** and facilitate downtime events to keep the narrative engaging.
 
