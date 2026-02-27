@@ -4,7 +4,40 @@
   <a href="https://github.com/mckn-larp"><img alt="Chronicle Repo" src="https://img.shields.io/badge/Chronicle-Repo-blue?style=for-the-badge&logo=github" /></a>
 </p>
 
+<<<<<<< Updated upstream
 # Marble City: Knoxville
+=======
+<div class="badge-stack">
+  <a href="https://owbnknoxville.net">
+    <img alt="Website" src="https://img.shields.io/badge/Visit%20Our%20Website-MCKN-blue?style=for-the-badge&logo=worldofdarkness" />
+  </a>
+  <a href="https://discord.gg/N5AKyFByth">
+    <img alt="Join Discord" src="https://img.shields.io/discord/799311464086110260?color=%237289DA&label=Discord&logo=discord&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/mckn-larp/house-rules">
+    <img alt="House Rules Repo" src="https://img.shields.io/badge/House%20Rules-Repo-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/mckn-larp/history">
+    <img alt="History Repo" src="https://img.shields.io/badge/History-Repo-blue?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+<style>
+.badge-stack {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0em;
+  margin: 0.5em auto;
+}
+
+.badge-stack a img {
+  width: 300px;       /* Fixed width for consistency */
+  max-width: 90%;     /* Responsive for smaller screens */
+  display: block;
+}
+</style>
+>>>>>>> Stashed changes
 
 **Welcome to Marble City: Knoxville (MCKN)**, the heart of the valley and the queen city of the mountains. Established in **2025** as part of the **One World By Night (OWbN)** network, our satelite chronicle offers an immersive live-action role-playing experience set in the **World of Darkness** universe.
 
